@@ -1,7 +1,5 @@
 # advanced-django2019
 
-# Repository for Django class labs 
-
 This repository holds all projects created during Advanced Django class.
 
 ## Installation
