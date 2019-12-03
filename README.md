@@ -1,15 +1,13 @@
-# advanced-django2019
+# Jira Project
 
-This repository holds all projects created during Advanced Django class.
+Project simulates Jira, created on Advanced Django Class.
 
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install all needed libraries.
 
 ```bash
-pip install django
-pip install django-cors-headers
-pip install djangorestframework
+pip install -r requirements.txt
 ```
 
 ## Usage
